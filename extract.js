@@ -1,6 +1,6 @@
 const path = require('path');
 
-const extractFilePath = function (url) {
+const extractFilePath = function(url) {
     
     let fileName = 'index.html';
     let filePath;
